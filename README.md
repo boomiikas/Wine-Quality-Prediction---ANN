@@ -1,6 +1,7 @@
 # Wine Quality Prediction Web App 🍷
 
 This is a **Gradio web application** for predicting **wine quality** using an **Artificial Neural Network (ANN)** model trained on physicochemical features.
+
 **DEMO LINK :** https://huggingface.co/spaces/boomiikas/Wine-Quality-Prediction
 
 ## Features
